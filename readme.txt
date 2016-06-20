@@ -8,3 +8,4 @@ git stash test.
 
 fix a new bug
 fix second bug
+this is feature 1
