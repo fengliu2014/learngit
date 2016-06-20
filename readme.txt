@@ -7,3 +7,4 @@ Test no-ff
 git stash test.
 
 fix a new bug
+fix second bug
